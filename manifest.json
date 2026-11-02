@@ -1,0 +1,9 @@
+{
+  "name": "Future Genius \u2014 Global Learning",
+  "short_name": "Future Genius",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7ff",
+  "theme_color": "#101a3a",
+  "description": "Worldwide learning prototype with subject catalogue, country and language preferences."
+}
